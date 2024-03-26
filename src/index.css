@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+  appearance: none;
+  background: transparent;
+  color: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.maxWidth {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.btn {
+  background-color: gold;
+  color: rgb(63, 10, 199);
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border: 5px;
+  cursor: pointer;
+}
+
+.pagination {
+  margin-block: 2rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.pagination button {
+  min-width: 100px;
+}
+
+.loadingScreen {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
