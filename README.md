@@ -1,8 +1,10 @@
-# React + Vite
+# A Full Fledged Pokédex using ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+YouTube Tutorial : https://www.youtube.com/watch?v=h6-K2w2dHbM
 
-Currently, two official plugins are available:
+Some shots:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-03-26 214539](https://github.com/UmairFaheem042/react_pokedex/assets/103030494/513bdf61-d8be-4107-868f-6af17ab39505)
+![Screenshot 2024-03-26 215312](https://github.com/UmairFaheem042/react_pokedex/assets/103030494/95e89f60-9859-4798-97f0-eee54c0d5482)
+
+![Screenshot 2024-03-26 215231](https://github.com/UmairFaheem042/react_pokedex/assets/103030494/f986cfca-f82b-4f8d-a623-55d151061037)
