@@ -1,6 +1,7 @@
 # A Full Fledged Pokédex using ReactJS
 
 YouTube Tutorial : https://www.youtube.com/watch?v=h6-K2w2dHbM
+
 Live Preview : https://react-pokedex-drab.vercel.app/
 
 Some shots:
